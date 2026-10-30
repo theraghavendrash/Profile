@@ -1,0 +1,6 @@
+{
+  "name": "Editorial Engineering Portfolio",
+  "description": "Minimal light-theme portfolio with high typographic rigor, 3D wireframe scene, and restrained editorial engineering design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
